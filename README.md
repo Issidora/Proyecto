@@ -52,8 +52,7 @@ Creamos un entorno virtual, ya sea con dockers o anaconda con los siguientes req
 
 ### Prerequisitos
 -Crear un entorno virtual en anaconda o docker con las siguientes versiones:
-* Python=3.9
-* Tensorflow=2.6.0
-* Pandas
-* Matplotlib
-* Numpy
+* Python 3.9
+* Pandas 1.4.0
+* gensim 4.1.2
+* Numpy 1.22.1
