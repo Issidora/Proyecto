@@ -45,6 +45,7 @@ Este proyecto utiliza el sistema Word2tovect para crear recomendaciones de produ
 * *Id* corresponde a código de producto 
 * *Group* corresponde a la categoria del producto 
 * *Cliente* Corresponde al código de cliente 
+* Dataset Recomendado: https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop
 
 <!-- COMO EMPEZAR-->
 ## Como Empezar
